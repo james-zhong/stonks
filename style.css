@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(21, 23, 26);
+    color: white;
+    font-family: MonaSans;
+}
+
+QFrame#graph {
+    border: 3px solid white;
+}
+
+QLabel#title {
+    font-size: 18pt;
+}
+
+QLabel {
+    font-size: 11pt;
+}
